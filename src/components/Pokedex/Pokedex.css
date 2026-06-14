@@ -10,13 +10,7 @@
 } */
 
 
-.pokedex-wrapper {
-    display: flex;
-    flex-direction: column;
-    align-items: center; /* This handles centering the children for you */
-    width: 100%;         /* Lets the container span the full page width so center is actually center */
-    letter-spacing: 5px;
-}
+
 
 
 /* You can completely remove #pokedex-heading since align-items handles it now */
